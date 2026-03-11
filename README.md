@@ -19,7 +19,7 @@
 [![Portfolio](https://img.shields.io/badge/↗%20Portfolio-1a1a1a?style=flat-square&logoColor=ffffff)](https://purushothamreddy.netlify.app/)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/↗%20LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=aaaaaa)](https://www.linkedin.com/in/purushothamreddytiyyagura/)&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/↗%20Email-1a1a1a?style=flat-square&logo=gmail&logoColor=aaaaaa)](mailto:purushothamreddy454@gmail.com)&nbsp;&nbsp;
-[![AWS](https://img.shields.io/badge/AWS%20Certified-1a1a1a?style=flat-square&logo=amazon-aws&logoColor=aaaaaa)]([https://aws.amazon.com/certification/](https://cp.certmetrics.com/amazon/en/public/verify/credential/919ead960ed041ddba8049e3d36e840d)
+[![AWS](https://img.shields.io/badge/AWS%20Certified-1a1a1a?style=flat-square&logo=amazon-aws&logoColor=aaaaaa)](https://cp.certmetrics.com/amazon/en/public/verify/credential/919ead960ed041ddba8049e3d36e840d)
 
 </div>
 
