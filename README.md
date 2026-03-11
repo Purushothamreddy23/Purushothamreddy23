@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Purushotham%20Reddy&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Building%20Intelligent%20Systems&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Purushotham%20Reddy&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CS%20Graduate%20%E2%80%94%20Building%20with%20LLMs%20%26%20Full-Stack%20Apps&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -22,14 +22,14 @@
 
 ```python
 class Purushotham:
-    role       = "AI / ML Engineer"
-    focus      = ["LLM Integration", "RAG Systems", 
+    role       = "CS Graduate | Aspiring AI/ML Engineer"
+    focus      = ["LLM Integration", "RAG Systems",
                   "Voice AI", "Backend APIs"]
     stack      = ["Python", "TypeScript", "Node.js",
                   "LangChain", "Django"]
     cloud      = "AWS Certified Cloud Practitioner ☁️"
     oss        = "Wagtail / Django contributor 🌱"
-    status     = "Open to AI Engineer roles 🔍"
+    status     = "Open to work — AI/ML & Full-Stack roles 🔍"
 ```
 
 <br clear="right"/>
@@ -80,8 +80,7 @@ Research-grade project exploring privacy-preserving ML with federated learning i
 
 
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-[![⭐ 1](https://img.shields.io/badge/⭐-1-yellow?style=flat)](https://github.com/Purushothamreddy23/Lyrica)
+
 
 </td>
 </tr>
@@ -146,8 +145,8 @@ Research-grade project exploring privacy-preserving ML with federated learning i
 
 *Open to AI Engineer roles, collaborations, and interesting problems.*
 
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:purushothamreddy454@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purushothamreddytiyyagura/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
 
