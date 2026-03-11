@@ -1,106 +1,154 @@
 <div align="center">
 
-# Hey, I'm Purushotham 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Purushotham%20Reddy&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Building%20Intelligent%20Systems&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-**AI/ML Engineer** · Building with LLMs, RAG systems & full-stack applications
+<br/>
 
-[![AWS Certified](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
-[![Open Source](https://img.shields.io/badge/Open_Source-Contributor-blue?style=flat&logo=github)](https://github.com/wagtail/wagtail)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=LLM+Integration+%26+RAG+Systems;Full-Stack+AI+Applications;Open+Source+Contributor;AWS+Certified+Cloud+Practitioner)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Purushothamreddy23/portfolio)
+[![AWS](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
 
 </div>
 
 ---
 
-## About Me
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-I'm an AI/ML engineer focused on building intelligent systems — from LLM-powered chatbots to RAG pipelines and full-stack applications. I enjoy turning complex ideas into clean, working software.
+### 👨‍💻 About Me
 
-- 🤖 Working on **LLM integration**, **RAG-based systems**, and **voice AI automation**
-- 🌱 Exploring **BFSI automation pipelines** and **agentic AI** workflows
-- 🛠️ Open source contributor to **[Wagtail/Django](https://github.com/wagtail/wagtail)**
-- ☁️ **AWS Certified Cloud Practitioner**
-- 🔍 Currently open to **AI Engineer** roles
+```python
+class Purushotham:
+    role       = "AI / ML Engineer"
+    focus      = ["LLM Integration", "RAG Systems", 
+                  "Voice AI", "Backend APIs"]
+    stack      = ["Python", "TypeScript", "Node.js",
+                  "LangChain", "Django"]
+    cloud      = "AWS Certified Cloud Practitioner ☁️"
+    oss        = "Wagtail / Django contributor 🌱"
+    status     = "Open to AI Engineer roles 🔍"
+```
+
+<br clear="right"/>
 
 ---
 
-## Tech Stack
+## 🚀 Featured Projects
 
-**AI/ML**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Systems-FF6B6B?style=flat)
-![Vector DBs](https://img.shields.io/badge/Vector_DBs-4A90D9?style=flat)
+<table>
+<tr>
+<td width="50%">
 
-**Backend & APIs**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+### 🌸 HERNEST
+**Your Personal Space for Menstrual Wellness**
 
-**Frontend**
+A TypeScript-based health app delivering private, data-informed menstrual health tracking with personalized insights.
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Health Tech](https://img.shields.io/badge/HealthTech-E91E63?style=flat)
 
-**Cloud & Tools**
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## Featured Projects
-
-### 🌸 [HERNEST](https://github.com/Purushothamreddy23/HERNEST)
-> *Your Personal Space for Menstrual Wellness*
-
-A health and wellness application built with TypeScript. HERNEST delivers a private, data-informed experience for menstrual health tracking and insights.
-
----
+</td>
+<td width="50%">
 
 ### ⚖️ LLM4LAW
-> *LLM & RAG-powered Legal Chatbot*
+**RAG-Powered Legal Chatbot**
 
-An LLM-integrated chatbot for legal query assistance, built on a Retrieval-Augmented Generation architecture. Combines document retrieval with language model generation to deliver accurate, context-grounded responses.
+LLM + Retrieval-Augmented Generation pipeline for legal query assistance — grounded, accurate, context-aware responses.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔬 FedMed-LLM
+**Federated Learning + LLMs in Healthcare**
+
+Research-grade project exploring privacy-preserving ML with federated learning in medical contexts.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Research](https://img.shields.io/badge/Research-14B8A6?style=flat)
+
+</td>
+<td width="50%">
+
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+[![⭐ 1](https://img.shields.io/badge/⭐-1-yellow?style=flat)](https://github.com/Purushothamreddy23/Lyrica)
+
+</td>
+</tr>
+</table>
+
+> 🛠️ Also contributed to **[Wagtail](https://github.com/wagtail/wagtail)** — one of the most widely used Django CMS platforms
 
 ---
 
-### 🎵 [Lyrica](https://github.com/Purushothamreddy23/Lyrica)
-> *Minimalist lyrics explorer*
-
-A sleek JavaScript app for discovering and reading song lyrics — distraction-free, fast, and user-friendly.
-
----
-
-### 🔬 [FedMed-LLM](https://github.com/Purushothamreddy23/fedmed-llm)
-> *Federated Learning + LLM research*
-
-Exploring federated learning approaches in combination with large language models — privacy-preserving ML in healthcare contexts.
-
----
-
-### 🏡 [Wagtail (OSS Contribution)](https://github.com/wagtail/wagtail)
-> *Django CMS — Open Source*
-
-Contributed to the Wagtail/Django codebase, one of the most widely used Python content management systems.
-
----
-
-## GitHub Stats
+## 🧠 Tech Stack
 
 <div align="center">
 
-![Purushotham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Purushothamreddy23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+**AI / ML**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Purushothamreddy23&layout=compact&theme=tokyonight&hide_border=true)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frontend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
 ---
 
-## Let's Connect
+## 📊 GitHub Stats
 
-I'm actively looking for AI/ML engineering roles. If you're building with LLMs or working on interesting AI infra — let's talk.
+<div align="center">
 
-📬 [LinkedIn](https://www.linkedin.com/in/purushothamreddytiyyagura/) · 📧 purushothamreddy454L@gmail.com
+<img src="https://github-readme-stats.vercel.app/api?username=Purushothamreddy23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purushothamreddy23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" height="165"/>
 
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Purushothamreddy23&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Build Something Together
+
+*Open to AI Engineer roles, collaborations, and interesting problems.*
+
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
+
+</div>
