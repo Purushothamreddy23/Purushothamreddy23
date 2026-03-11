@@ -8,7 +8,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purushothamreddytiyyagura/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Purushothamreddy23/portfolio)
 [![AWS](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
 
@@ -76,7 +76,17 @@ Research-grade project exploring privacy-preserving ML with federated learning i
 ![Research](https://img.shields.io/badge/Research-14B8A6?style=flat)
 
 </td>
+<td width="50%">
 
+### 🎵 Lyrica
+**Minimalist Lyrics Explorer**
+
+Sleek, distraction-free song lyrics app. Explore your favorite tracks in a clean, user-first interface.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+[![⭐ 1](https://img.shields.io/badge/⭐-1-yellow?style=flat)](https://github.com/Purushothamreddy23/Lyrica)
+
+</td>
 </tr>
 </table>
 
@@ -140,7 +150,7 @@ Research-grade project exploring privacy-preserving ML with federated learning i
 *Open to AI Engineer roles, collaborations, and interesting problems.*
 
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:purushothamreddy454@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purushothamreddytiyyagura/)
+[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/purushothamreddytiyyagura/))
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
 
