@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Purushotham+Reddy&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CS+Graduate+%E2%80%94+Building+with+LLMs+%26+Full-Stack+Apps&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Purushotham%20Reddy&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CS%20Graduate%20%E2%80%94%20Building%20with%20LLMs%20%26%20Full-Stack%20Apps&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -8,7 +8,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purushothamreddytiyyagura/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Purushothamreddy23/portfolio)
 [![AWS](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
 
@@ -76,13 +76,7 @@ Research-grade project exploring privacy-preserving ML with federated learning i
 ![Research](https://img.shields.io/badge/Research-14B8A6?style=flat)
 
 </td>
-<td width="50%">
 
-
-
-
-
-</td>
 </tr>
 </table>
 
