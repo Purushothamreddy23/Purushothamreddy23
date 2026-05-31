@@ -63,12 +63,12 @@ Menstrual wellness app with personalized health tracking & insights.
 ---
 
 ### `/stats`
-
+<!-- 
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Purushothamreddy23&show_icons=true&hide_border=true&bg_color=0d1f2d&title_color=f0ebe3&icon_color=e87c3e&text_color=8ab4c2&count_private=true"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purushothamreddy23&layout=compact&hide_border=true&bg_color=0d1f2d&title_color=f0ebe3&text_color=8ab4c2"/>
 </p>
-
+-->
 <p>
   <img src="https://streak-stats.demolab.com?user=Purushothamreddy23&hide_border=true&background=0d1f2d&ring=e87c3e&fire=e87c3e&currStreakLabel=f0ebe3&sideLabels=8ab4c2&dates=8ab4c2&stroke=1a3a4a" alt="streak"/>
 </p>
