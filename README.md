@@ -36,14 +36,8 @@ Status  Open to work
 **🔬 [FedMed-LLM](https://github.com/Purushothamreddy23/fedmed-llm)** &nbsp;·&nbsp; `Python`
 Privacy-preserving federated learning with LLMs for healthcare data.
 
-**🎙️ [RealVoice](https://github.com/Purushothamreddy23/RealVoice)** &nbsp;·&nbsp; `Voice AI`
-Real-time voice AI application for natural speech interaction.
-
 **🌸 [HERNEST](https://github.com/Purushothamreddy23/HERNEST)** &nbsp;·&nbsp; `TypeScript`
 Menstrual wellness app with personalized health tracking & insights.
-
-**🎵 [Lyrica](https://github.com/Purushothamreddy23/Lyrica)** &nbsp;·&nbsp; `JavaScript`
-Minimalist app to find and explore song lyrics, distraction-free.
 
 > ↳ Also contributed to **[Wagtail](https://github.com/wagtail/wagtail)** — one of Python's most widely used CMS platforms.
 
